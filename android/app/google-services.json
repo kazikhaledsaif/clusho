@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "449134132231",
+    "firebase_url": "https://chuso-85ccb.firebaseio.com",
+    "project_id": "chuso-85ccb",
+    "storage_bucket": "chuso-85ccb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449134132231:android:b939d188c013b84a887ea2",
+        "android_client_info": {
+          "package_name": "com.of.webview.chuso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449134132231-0m417cru19oflloc0fif29td5qpkvcs5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.of.webview.chuso",
+            "certificate_hash": "1b04ceda77833f627f6a721f62e469f2889df2e2"
+          }
+        },
+        {
+          "client_id": "449134132231-208umaue31f0of5nlsmu6suu0a5f9rah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhYsKmnM3jLSGISXk7dq_4u5UL41RBoaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449134132231-208umaue31f0of5nlsmu6suu0a5f9rah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
