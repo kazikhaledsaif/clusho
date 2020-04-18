@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.of.webview.chuso">
+    package="com.mtc.clusho">
 
     <uses-permission android:name="android.permission.INTERNET"/>
 
